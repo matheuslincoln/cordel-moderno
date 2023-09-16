@@ -58,6 +58,20 @@ section.imagem > p {
     background-color: rgba(0, 0, 0, 0.253);
 }
 
+#imagem01 {
+    background-image: url('imagens/background001.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#imagem02 {
+    background-image: url('imagens/background002.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 footer {
     background-color: black;
     color: white;
